@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
+<defs><linearGradient id="bg"><stop stop-color="#0b1425"/><stop offset="1" stop-color="#122434"/></linearGradient><pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#18273b"/></pattern></defs>
+<rect width="1584" height="396" fill="url(#bg)"/><rect width="500" height="396" fill="url(#grid)"/>
+<path d="M350 80L280 150L350 220M410 80L480 150L410 220" fill="none" stroke="#345d76" stroke-width="9"/><path d="M398 66L366 236" stroke="#50c7c5" stroke-width="8"/><rect x="545" y="69" width="6" height="247" rx="3" fill="#50c7c5"/>
+<text x="590" y="97" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="700" fill="#7ad8d5">DAVI NOVAKOSKI</text>
+<text x="590" y="173" font-family="DejaVu Sans, sans-serif" font-size="55" font-weight="700" fill="#f4f7fb">Desenvolvedor Full Stack</text>
+<text x="590" y="227" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="400" fill="#d4dfed">Vue.js  •  Quasar  •  Next.js  •  PHP  •  Laravel</text>
+<text x="590" y="280" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="400" fill="#a4b8ce">Cursando Engenharia de Software • 6ª fase • SATC</text>
+</svg>
